@@ -43,7 +43,7 @@ Main tables included:
 ---
 
 ## 📊 ER Diagram
-(Add your ER diagram image here after uploading)
+RETAIL_MANAGEMENT/Retail_ER_Diagram.png
 
 ---
 
